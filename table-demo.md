@@ -1,4 +1,4 @@
-![ryan-v-ryan](https://user-images.githubusercontent.com/87149094/218898011-d1ed8936-cd15-440c-9003-7b31060a8d40.jpg)
+
 ---
 layout: liquid-table
 title: 'amiright?'
@@ -25,7 +25,7 @@ gosling:
 
 
 
-![]({{site.url}}/assets/img/ryan-v-ryan.jpg)  
+![ryan-v-ryan](https://user-images.githubusercontent.com/87149094/218898011-d1ed8936-cd15-440c-9003-7b31060a8d40.jpg)
 
 
 ## Lorem Ipsum
