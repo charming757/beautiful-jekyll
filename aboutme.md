@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CPP 527 Lab 05
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Chanel H. A little about me:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- From South Dakota
+- I have 3 younger siblings
+- Rock is my favorite music genre
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Write a memoir, eat cake for breakfast, travel all that you can, and spend time with your loved ones whoever they are. 
