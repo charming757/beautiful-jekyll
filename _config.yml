@@ -13,6 +13,10 @@ author: Chanel
 
  baseurl:""
  url: "https://charming757.github.io"
+ 
+ runs:
+  using: 'node16'
+  main: 'main.js'
 
 
 # --- List of links in the navigation bar --- #
