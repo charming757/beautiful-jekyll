@@ -24,7 +24,7 @@ url: "https://charming757.github.io"
 navbar-links:
   About Me: "My name is Chanel and I'm a master's student at Arizona State University. I'm from South Dakota and I'm enrolled in the Lower Brule Sioux tribe. Currently, I teach middle school ELA in Idaho."
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "http://charming757.github.io/beautiful-jekyll/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted" 
     Table Demo: "table-demo"  
