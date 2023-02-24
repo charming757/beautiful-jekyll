@@ -30,7 +30,7 @@ layout: default
     <ul>
       
       {% for item in page.reynolds.strengths %}
-         <li>{{ item }}</li>
+         <li>{{  - good father }}</li>
       {% endfor %}
       
     </ul>
